@@ -3,3 +3,7 @@ This is text file 1.
 Small edit in File 1. 
 
 Today is Tuesday, Feb 6th. 
+
+Added some changes :DDD
+
+What is happing :FFFFF
